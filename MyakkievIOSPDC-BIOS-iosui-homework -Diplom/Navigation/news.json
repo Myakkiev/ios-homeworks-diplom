@@ -1,0 +1,27 @@
+{
+    "posts": [{
+            "author": "Khamosh Pathak",
+            "title": "The Quickest Way to Cancel Spotify Premium and Delete Your Account",
+            "description": "Spotify is the leading music streaming service, but its Premium membership might not be for everyone. Maybe you have a better deal with Apple Music or Amazon Prime Music. Maybe you don’t want to support Spotify because of the Joe Rogan fiasco. No matter your",
+            "image": "idol1",
+            "likes": 2000,
+            "views": 3000
+        },
+        {
+            "author": "Jake Peterson",
+            "title": "Your iPhone's Alarm Doesn't Have to Be so Annoying",
+            "description": "We all know the iPhone’s alarm is anything but a gentle wake-up. “Radar,” as the alert tone is called, is abrasive, startling, and unforgiving. In contrast with the competition, Samsung in particular, it seems Apple ...",
+            "image": "idol2",
+            "likes": 100,
+            "views": 123
+        },
+        {
+            "author": "Beth Skwarecki",
+            "title": "The Easiest, Cheapest Way to Train by Heart Rate",
+            "description": "With fitness watches becoming more popular over the years, training by heart rate has gotten even more ...",
+            "image": "idol3",
+            "likes": 2000,
+            "views": 3000
+        },
+    ]
+}
