@@ -41,7 +41,7 @@ final class ProfileViewController: UIViewController {
 
     private func setupNavigationBar() {
         self.tabBarController?.tabBar.isHidden = false
-        self.navigationController?.navigationBar.isHidden = false
+        self.navigationController?.navigationBar.isHidden = true
     }
 
     private func setupView() {

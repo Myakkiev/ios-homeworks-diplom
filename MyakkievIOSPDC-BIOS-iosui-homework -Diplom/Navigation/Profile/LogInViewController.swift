@@ -224,7 +224,7 @@ class LogInViewController: UIViewController, UITextFieldDelegate {
             self.infoTextField.backgroundColor = .red
         } else if passwordTextField.text == "" {
             self.passwordTextField.backgroundColor = .red
-        } else if self.infoTextField.text == "stanislav_yum@mail.ru" && passwordTextField.text == "1111111" {
+        } else if self.infoTextField.text == "1@mail.ru" && passwordTextField.text == "1111111" {
             let profileVC = ProfileViewController()
             self.navigationController?.pushViewController(profileVC, animated: true)
         } else {
